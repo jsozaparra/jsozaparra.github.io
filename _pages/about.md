@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My "academic-name" is Jaime Soza-Parra, I was born in Chile and did my PhD there as well, at the Transport Engineering and Logistics Department, Pontificia Universidad Católica de Chile. During my second PhD year, I performed a 10 months external research stay in TU Delft Transportation and Planning Department as a visiting PhD student. Since then, I worked as a Postdoc Researcher at CEDEUS first, and later as a Postdoc Researcher at UC Davis. Right now I am back at Delft working as a Postdoc Researcher at TU Delft and also as a Research fellow at the Amsterdam Institute for Metropolitan Solutions.
+My `academic-name` is Jaime Soza-Parra, I was born in Chile and did my PhD there as well, at the Transport Engineering and Logistics Department, Pontificia Universidad Católica de Chile. During my second PhD year, I performed a 10 months external research stay in TU Delft Transportation and Planning Department as a visiting PhD student. Since then, I worked as a Postdoc Researcher at CEDEUS first, and later as a Postdoc Researcher at UC Davis. Right now I am back at Delft working as a Postdoc Researcher at TU Delft and also as a Research fellow at the Amsterdam Institute for Metropolitan Solutions.
 
 My research interests focus on the analysis of different data sources, from passively collected (e.g. smartcard information) to surveys (e.g. discrete choice stated preference surveys) to understand how uncertainty impacts travellers behaviour.
 
