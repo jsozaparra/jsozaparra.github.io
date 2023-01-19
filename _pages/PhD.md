@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: pageII
 title:  phd
+titledisp: PhD experience
 description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
