@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  phd
 description: this is what included images could look like
 tags: formatting images
