@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  a post with images
+title:  phd
 description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
