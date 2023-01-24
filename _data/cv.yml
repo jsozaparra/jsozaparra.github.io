@@ -74,13 +74,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: Winner: Lee Schipper Memorial Scholarship 
+      year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - World Resources Institute
+    - year: 2017
       items: 
         - Max Planck Medal
+    - year: 2021
+      items: 
+        - Max Planck Medal        
 
 - title: Academic Interests
   type: nested_list
