@@ -84,6 +84,12 @@
       year: 2021
       institution: Abertis Chair Chile
 
+- title: Other Interests
+  type: map
+  contents:
+    - name: "test"
+      value: 2018
+      
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
