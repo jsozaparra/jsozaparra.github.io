@@ -52,12 +52,24 @@
         - Conduct interdisciplinary research with other members of the research centre
         - Write public policy documents <i>(white papers)</i>
 
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Urban Public Transportation
+      institution: TU Delft - Beijing Jiaotong University
+      year: 2022
+
+    - title: Demand Modelling
+      institution: Pontificia Universidad Católica de Chile
+      year: 2019
+
+    - title: Network Flows
+      institution: Pontificia Universidad Católica de Chile
+      year: 2018
+
+    - title: Introduction to Demand Modelling
+      institution: Universidad Autónoma de Baja California
+      year: 2017
 
 - title: Honors and Awards
   type: time_table
