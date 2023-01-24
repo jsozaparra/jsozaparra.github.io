@@ -6,7 +6,7 @@ description: this is what included images could look like
 tags: formatting images
 categories: sample-posts
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 This is an example post with image galleries.
 
