@@ -6,6 +6,7 @@ nav: true
 nav_order: 2
 cv_pdf: CV2022.pdf
 ---
+<div class="cv">
 <div class="card mt-3 p-3">
 
 This is an example post with image galleries.
@@ -46,5 +47,6 @@ The rest of the images in this post are all zoomable, arranged into different mi
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
 </div>
 </div>
