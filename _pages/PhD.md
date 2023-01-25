@@ -49,3 +49,6 @@ The rest of the images in this post are all zoomable, arranged into different mi
 </div>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
+
+<div id="map"></div>
+
