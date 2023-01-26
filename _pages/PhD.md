@@ -52,5 +52,5 @@ The rest of the images in this post are all zoomable, arranged into different mi
 
 Leaflet (?)
 
-<div id="map"></div>
+<div id="map" height= 90vh width= 100hw;></div>
 
