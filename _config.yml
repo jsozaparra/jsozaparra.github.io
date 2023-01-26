@@ -184,7 +184,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages','Leaflet.markercluster-1.4.1']
+include: ['_pages']
 
 exclude:
   - bin
