@@ -16,9 +16,21 @@ Leaflet (?)
 
 <div id="map" style="width: 1200px; height: 400px;"></div>
 
+<script>
+
+	const map = L.map('map').setView([51.505, -0.09], 13);
+
+	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+</script>
+
+<!-- 
 <script type="text/javascript">
     
-    		var addressPoints = [
+var addressPoints = [
   [
     "Berkeley CA, USA",
     37.8708393,
@@ -63,4 +75,6 @@ for (var i = 0; i < addressPoints.length; i++) {
 
 map.addLayer(markers);
 map.zoomIn();
-    	</script>
+    	
+</script>
+-->
