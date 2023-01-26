@@ -26,9 +26,37 @@ Leaflet (?)
 	}).addTo(map);
 
 
-    var marker = L.marker([51.5, -0.09]).addTo(map);
-    var marker = L.marker([37.8708393, -122.2728638]).addTo(map);
-    marker.bindPopup("hola")
+
+var addressPoints = [
+  [
+    "Berkeley CA, USA",
+    37.8708393,
+    -122.2728638
+  ],
+  [
+    "London, UK",
+    51.5073219,
+    -0.1276473
+  ],
+  [
+    "San Francisco, California",
+    37.7792808,
+    -122.4192362
+  ],
+  [
+    "Los Angeles, CA",
+    34.0543942,
+    -118.2439408
+  ]
+];
+
+    for (var i = 0; i < addressPoints.length; i++) {
+    			var a = addressPoints[i];
+    			var title = a[0];
+    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
+    			marker.bindPopup(title);
+    			map.addLayer(marker);
+    		}
 
     map.zoomIn();
 
