@@ -31,8 +31,6 @@ Leaflet (?)
     			});
 
     const marker = L.marker(new L.LatLng(37.8708393, -122.2728638), { title: "title" });
-    marker.bindPopup(Berkeley CA, USA);
-    markers.addLayer(marker);
 
 
 
