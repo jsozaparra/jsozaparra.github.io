@@ -25,6 +25,22 @@ Leaflet (?)
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
+    const markers = L.markerClusterGroup({
+    			showCoverageOnHover: false,
+    			maxClusterRadius: 80
+    			});
+
+    const marker = L.marker(new L.LatLng(37.8708393, -122.2728638), { title: "title" });
+    marker.bindPopup(Berkeley CA, USA);
+    markers.addLayer(marker);
+
+    const marker = L.marker(new L.LatLng(37.7792808, -122.4192362), { title: "title" });
+    marker.bindPopup(San Francisco, California");
+    markers.addLayer(marker);
+
+    map.addLayer(markers);
+    map.zoomIn();
+
 </script>
 
 <!-- 
