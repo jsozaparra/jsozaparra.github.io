@@ -28,6 +28,7 @@ Leaflet (?)
 
     var marker = L.marker([51.5, -0.09]).addTo(map);
     var marker = L.marker([37.8708393, -122.2728638]).addTo(map);
+    marker.bindPopup("hola")
 
     map.zoomIn();
 
