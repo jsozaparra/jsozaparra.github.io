@@ -185,6 +185,8 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
+include:
+  - _static
 exclude:
   - bin
   - Gemfile
