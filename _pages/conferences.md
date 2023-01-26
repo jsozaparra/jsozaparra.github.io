@@ -28,12 +28,11 @@ Leaflet (?)
     var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
     			maxClusterRadius: 80
-    			});
+    			}).addTo(map);
 
     var marker = L.marker([51.5, -0.09]).addTo(markers);
     var marker = L.marker([37.8708393, -122.2728638]).addTo(markers);
 
-    markers.addTo(map);
 
 </script>
 
