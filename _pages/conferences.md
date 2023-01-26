@@ -50,14 +50,17 @@ var addressPoints = [
   ]
 ];
 
+var markers = L.markerClusterGroup();
+
     for (var i = 0; i < addressPoints.length; i++) {
     			var a = addressPoints[i];
     			var title = a[0];
     			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
     			marker.bindPopup(title);
-    			map.addLayer(marker);
+    			markers.addLayer(marker);
     		}
-
+        
+    map.addLayer(markers);
     map.zoomIn();
 
 </script>
