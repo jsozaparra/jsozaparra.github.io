@@ -14,9 +14,7 @@ Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locati
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
 -->
 
-Leaflet (?)
-
-<div id="map" style="width: 1200px; height: 400px;"></div>
+<div id="map" style="width: 1200px; height: 500px;"></div>
 
 <script>
 
