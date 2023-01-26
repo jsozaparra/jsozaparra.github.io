@@ -8,9 +8,11 @@ categories: sample-posts
 nav: true
 nav_order: 2
 ---
-This is an example post with image galleries.
+Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locations={type ....} ; L.geoJSON(locations).addTo(map)
 
+<!-- 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
+-->
 
 Leaflet (?)
 
@@ -59,7 +61,7 @@ var markers = L.markerClusterGroup();
     			marker.bindPopup(title);
     			markers.addLayer(marker);
     		}
-        
+
     map.addLayer(markers);
     map.zoomIn();
 
