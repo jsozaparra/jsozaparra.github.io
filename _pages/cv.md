@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: resumé
 nav: true
-nav_order: 2
+nav_order: 3
 cv_pdf: CV2022.pdf
 ---
 <div class="cv">
