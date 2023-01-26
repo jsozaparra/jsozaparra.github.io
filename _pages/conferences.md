@@ -30,9 +30,9 @@ Leaflet (?)
     			maxClusterRadius: 80
     			});
 
-    const marker = L.marker(new L.LatLng(37.8708393, -122.2728638), { title: "title" }).addTo(map);
+    const marker = L.marker(new L.LatLng(37.8708393, -122.2728638)).addTo(map);
 
-    const marker = L.marker(new L.LatLng(37.7792808, -122.4192362), { title: "title" }).addTo(map);
+    const marker2 = L.marker(new L.LatLng(37.7792808, -122.4192362)).addTo(map);
 
 
 
