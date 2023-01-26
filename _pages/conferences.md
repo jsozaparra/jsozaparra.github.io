@@ -18,7 +18,7 @@ Leaflet (?)
 
 <script>
 
-	var map = L.map('map').setView([40, 10], 1);
+	var map = L.map('map').setView([20, 10], 1);
 
 	var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
