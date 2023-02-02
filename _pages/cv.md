@@ -101,12 +101,9 @@ The rest of the images in this post are all zoomable, arranged into different mi
                         <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="https://pbs.twimg.com/profile_images/1502307847216013323/VvR0-01n_400x400.jpg" alt="">
                         </li>
                     </ol>
-
-                    <!-- Carousel Buttons Next/Prev -->
                     <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
                     <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
                 </div>
             </div>
         </div>
-        <a class="btn btn-primary" href="http://thecodeblock.com/create-a-quote-testimonial-slider-using-bootstrap-carousel"><i class="fa fa-arrow-left"></i> Back to Article</a>
     </div>
