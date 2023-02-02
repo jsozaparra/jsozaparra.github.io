@@ -60,8 +60,8 @@ var markers = L.markerClusterGroup();
     			markers.addLayer(marker);
     		}
 
-    map.addLayer(markers);
-    map.zoomIn();
+map.addLayer(markers);
+map.zoomIn();
 
 </script>
 
