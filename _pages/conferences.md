@@ -18,7 +18,7 @@ Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locati
 
 <script>
 
-	var map = L.map('map').setView([0, 30], 1);
+	var map = L.map('map').setView([0, 20], 1);
 
 	var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
