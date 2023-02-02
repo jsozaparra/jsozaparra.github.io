@@ -8,7 +8,9 @@ categories: sample-posts
 nav: true
 nav_order: 2
 ---
-Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locations={type ....} ; L.geoJSON(locations).addTo(map)
+Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locations={type ....} ; L.geoJSON(locations).addTo(map) check
+
+TODO: check other example, add name of conference, link, etc
 
 <!-- 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
@@ -18,7 +20,7 @@ Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locati
 
 <script>
 
-	var map = L.map('map').setView([10, 15], 1);
+	var map = L.map('map').setView([1, 15], 1);
 
 	var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
