@@ -61,6 +61,9 @@ var markers = L.markerClusterGroup();
     		}
 
 map.addLayer(markers);
+
+L.geoJSON(locations).addTo(map);
+
 map.zoomIn();
 
 </script>
