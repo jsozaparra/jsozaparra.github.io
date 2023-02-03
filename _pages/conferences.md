@@ -32,7 +32,7 @@ var markers = L.markerClusterGroup();
 
 L.geoJSON(locations, {
   onEachFeature: function (feature, layer) {
-    layer.bindPopup('<h2 style="color:black;"><a href='+feature.properties.Link+' target="_blank" rel="noopener noreferrer">'+feature.properties.Conference+'</a></h2><p style="color:black;">name: '+feature.properties.Location+'</p>');
+    layer.bindPopup('<h2 style="color:black;"><a href='+feature.properties.Link+' target="_blank" rel="noopener noreferrer">'+feature.properties.Conference+'</a></h2><p style="color:black;">'+feature.properties.Location+' | '+feature.properties.Date+'</p><p style="color:black;">Test title Loren Ipsum</p>');
   }
 }).addTo(markers);
 
