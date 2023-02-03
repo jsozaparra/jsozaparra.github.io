@@ -107,7 +107,7 @@ var locations = {
    },
    "properties": {
    "Conference":"PANAM",
-   "Location":"Medell�n, Colombia",
+   "Location":"Medellín, Colombia",
    "Date":"September, 2018",
    "Title":"The underlying effect of public transport reliability over users' satisfaction <br/> What factors determine the variability of the level of service experienced by transit users?",
    "Link":"https://medellin.unal.edu.co/eventos/panam2018/index.php/en/"
