@@ -68,7 +68,7 @@ map.addLayer(markers);
 
 L.geoJSON(locations, {
   onEachFeature: function (feature, layer) {
-    layer.bindPopup('<h1>'+feature.properties.Name+'</h1><p>name: '+feature.properties.Name+'</p>');
+    layer.bindPopup('<h1 style="color:black;>'+feature.properties.Name+'</h1><p>name: '+feature.properties.Name+'</p>');
   }
 }).addTo(map);
 
