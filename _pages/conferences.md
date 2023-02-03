@@ -27,50 +27,16 @@ TODO: check other example, add name of conference, link, etc
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
-
-
-var addressPoints = [
-  [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
-  ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276473
-  ],
-  [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
-];
-
-var markers = L.markerClusterGroup();
-
-    for (var i = 0; i < addressPoints.length; i++) {
-    			var a = addressPoints[i];
-    			var title = a[0];
-    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
-    			marker.bindPopup(title);
-    			markers.addLayer(marker);
-    		}
-
-map.addLayer(markers);
-
 // L.geoJSON(locations).addTo(map);
+var markers = L.markerClusterGroup();
 
 L.geoJSON(locations, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup('<h2 style="color:black;">'+feature.properties.Conference+'</h2><p style="color:black;">name: '+feature.properties.Location+'</p>');
   }
-}).addTo(map);
+}).addTo(markers);
+
+map.addLayer(markers);
 
 map.zoomIn();
 
@@ -126,4 +92,42 @@ map.addLayer(markers);
 map.zoomIn();
     	
 </script>
+
+var addressPoints = [
+  [
+    "Berkeley CA, USA",
+    37.8708393,
+    -122.2728638
+  ],
+  [
+    "London, UK",
+    51.5073219,
+    -0.1276473
+  ],
+  [
+    "San Francisco, California",
+    37.7792808,
+    -122.4192362
+  ],
+  [
+    "Los Angeles, CA",
+    34.0543942,
+    -118.2439408
+  ]
+];
+
+var markers = L.markerClusterGroup();
+
+    for (var i = 0; i < addressPoints.length; i++) {
+    			var a = addressPoints[i];
+    			var title = a[0];
+    			var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title });
+    			marker.bindPopup(title);
+    			markers.addLayer(marker);
+    		}
+
+map.addLayer(markers);
+
+
+
 -->
