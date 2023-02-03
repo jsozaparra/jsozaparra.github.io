@@ -2,19 +2,12 @@
 layout: pageII
 title:  talks
 titledisp: Talks and Conferences
-description: this is what included images could look like
+description: Interactive Leaflet map with the conferences where I have presented my work
 tags: formatting images
 categories: sample-posts
 nav: true
 nav_order: 2
 ---
-Leaflet map talks. TODO: json   script src="locations.js"> /script> ; var locations={type ....} ; L.geoJSON(locations).addTo(map) check
-
-TODO: check other example, add name of conference, link, etc
-
-<!-- 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
--->
 
 <div id="map" style="width: 1200px; height: 500px;"></div>
 
@@ -27,7 +20,6 @@ TODO: check other example, add name of conference, link, etc
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
-// L.geoJSON(locations).addTo(map);
 var markers = L.markerClusterGroup();
 
 L.geoJSON(locations, {
@@ -43,6 +35,10 @@ map.zoomIn();
 </script>
 
 <!-- 
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZUGyEz0YdJGIT4ADAWnAZv6qLwp1rzY&ehbc=2E312F" width="640" height="480"></iframe>
+
 <script type="text/javascript">
     
 var addressPoints = [
