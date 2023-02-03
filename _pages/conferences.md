@@ -13,7 +13,7 @@ nav_order: 2
 
 <script>
 
-	var map = L.map('map').setView([10, 15], 1);
+	var map = L.map('map').setView([12, 15], 1);
 
 	var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
