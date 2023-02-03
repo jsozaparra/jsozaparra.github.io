@@ -64,7 +64,13 @@ var markers = L.markerClusterGroup();
 
 map.addLayer(markers);
 
-L.geoJSON(locations).addTo(map);
+// L.geoJSON(locations).addTo(map);
+
+L.geoJSON(locations, {
+  onEachFeature: function (feature, layer) {
+    layer.bindPopup('<h1>'+feature.properties.Name+'</h1><p>name: '+feature.properties.Name+'</p>');
+  }
+}).addTo(map);
 
 map.zoomIn();
 
