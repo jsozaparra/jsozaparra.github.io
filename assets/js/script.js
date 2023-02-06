@@ -11,6 +11,6 @@ var swiper = new Swiper(".mySwiper", {
     prevEl: ".swiper-button-prev",
   },
   autoplay: {
-    delay: 5000,
+    delay: 8000,
   },
 });
