@@ -46,7 +46,7 @@
 }
 .slide .quote-icon {
   font-size: 30px;
-  color: #4070f4;
+  color: var(--global-theme-color);
 }
 .slide .details {
   display: flex;
@@ -84,7 +84,7 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 .swiper-pagination-bullet-active {
-  background-color: #4070f4;
+  background-color: var(--global-theme-color);
 }
 @media screen and (max-width: 768px) {
   .slide p {
