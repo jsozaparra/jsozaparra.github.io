@@ -59,10 +59,7 @@ Test
           <div class="slide swiper-slide">
             <img src="/assets/img/img1.jpg" alt="" class="image" />
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
-              saepe provident dolorem a quaerat quo error facere nihil deleniti
-              eligendi ipsum adipisci, fugit, architecto amet asperiores
-              doloremque deserunt eum nemo.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
             </p>
             <i class="bx bxs-quote-alt-left quote-icon"></i>
             <div class="details">
@@ -73,10 +70,7 @@ Test
           <div class="slide swiper-slide">
             <img src="/assets/img/img2.jpg" alt="" class="image" />
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
-              saepe provident dolorem a quaerat quo error facere nihil deleniti
-              eligendi ipsum adipisci, fugit, architecto amet asperiores
-              doloremque deserunt eum nemo.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
             </p>
             <i class="bx bxs-quote-alt-left quote-icon"></i>
             <div class="details">
@@ -87,10 +81,7 @@ Test
           <div class="slide swiper-slide">
             <img src="/assets/img/img3.jpg" alt="" class="image" />
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
-              saepe provident dolorem a quaerat quo error facere nihil deleniti
-              eligendi ipsum adipisci, fugit, architecto amet asperiores
-              doloremque deserunt eum nemo.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
             </p>
             <i class="bx bxs-quote-alt-left quote-icon"></i>
             <div class="details">
