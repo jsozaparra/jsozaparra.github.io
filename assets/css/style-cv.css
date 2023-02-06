@@ -8,7 +8,7 @@
   font-family: "Poppins", sans-serif;
 }*/
 .container-slider {
-  height: 50vh;
+  height: 100%;
   width: 100%;
   display: flex;
   align-items: center;
