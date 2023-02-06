@@ -2,7 +2,7 @@ var swiper = new Swiper(".mySwiper", {
   slidesPerView: 2,
   grabCursor: true,
   loop: true,
-  speed:3000,
+  speed:2000,
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
