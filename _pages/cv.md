@@ -57,7 +57,7 @@ Test
       <div class="testimonial mySwiper">
         <div class="testi-content swiper-wrapper">
           <div class="slide swiper-slide">
-            <img src="images/img1.jpg" alt="" class="image" />
+            <img src="assets/img/img1.jpg" alt="" class="image" />
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
               saepe provident dolorem a quaerat quo error facere nihil deleniti
