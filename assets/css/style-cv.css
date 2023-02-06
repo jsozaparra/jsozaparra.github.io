@@ -17,6 +17,7 @@
 }
 .testimonial {
   position: relative;
+  max-width: 2500px;
   width: 100%;
   padding: 50px 0;
   overflow: hidden;
