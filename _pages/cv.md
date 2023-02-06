@@ -52,7 +52,7 @@ The rest of the images in this post are all zoomable, arranged into different mi
 </div>
 
 Test
-
+<div class="card mt-3 p-3">
 <section class="container-slider">
       <div class="testimonial mySwiper">
         <div class="testi-content swiper-wrapper">
@@ -95,3 +95,4 @@ Test
         <div class="swiper-pagination"></div>
       </div>
 </section>
+</div>
