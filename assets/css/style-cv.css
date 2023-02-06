@@ -33,13 +33,13 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  row-gap: 50px;
+  row-gap: 5px;
   height: 100%;
   width: 100%;
 }
 .slide p {
-  text-align: center;
-  padding: 0 20px;
+  text-align: justify;
+  padding: 0 35px;
   font-size: 14px;
   font-weight: 400;
   color: var(--global-text-color);
