@@ -71,7 +71,7 @@ Test
             </div>
           </div>
           <div class="slide swiper-slide">
-            <img src="images/img2.jpg" alt="" class="image" />
+            <img src="/assets/images/img2.jpg" alt="" class="image" />
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
               saepe provident dolorem a quaerat quo error facere nihil deleniti
@@ -85,7 +85,7 @@ Test
             </div>
           </div>
           <div class="slide swiper-slide">
-            <img src="images/img3.jpg" alt="" class="image" />
+            <img src="/assets/images/img3.jpg" alt="" class="image" />
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam,
               saepe provident dolorem a quaerat quo error facere nihil deleniti
