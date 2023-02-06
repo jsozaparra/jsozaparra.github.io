@@ -23,8 +23,8 @@
   overflow: hidden;
 }
 .testimonial .image {
-  height: 170px;
-  width: 170px;
+  height: 100px;
+  width: 100px;
   object-fit: cover;
   border-radius: 50%;
 }
