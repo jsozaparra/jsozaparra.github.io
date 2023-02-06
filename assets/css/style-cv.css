@@ -19,7 +19,7 @@
   position: relative;
   max-width: 2500px;
   width: 100%;
-  padding: 5px 0;
+  padding: 50px 0;
   overflow: hidden;
 }
 .testimonial .image {
@@ -39,7 +39,7 @@
 }
 .slide p {
   text-align: center;
-  padding: 0 50px;
+  padding: 0 1px;
   font-size: 14px;
   font-weight: 400;
   color: var(--global-text-color);
