@@ -48,10 +48,11 @@ The rest of the images in this post are all zoomable, arranged into different mi
         {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
 </div>
 </div>
 
-Test
+<div class="cv">
 <div class="card mt-3 p-3">
 <section class="container-slider">
       <div class="testimonial mySwiper">
@@ -95,4 +96,5 @@ Test
         <div class="swiper-pagination"></div>
       </div>
 </section>
+</div>
 </div>
