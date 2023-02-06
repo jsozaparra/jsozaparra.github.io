@@ -12,5 +12,6 @@ var swiper = new Swiper(".mySwiper", {
   },
   autoplay: {
     delay: 8000,
+    pauseOnMouseEnter: true,
   },
 });
