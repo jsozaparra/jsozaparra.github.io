@@ -73,7 +73,7 @@
   transition: 0.2s;
 }
 .nav-btn:hover {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: var(--global-text-color);
 }
 .nav-btn::after,
 .nav-btn::before {
