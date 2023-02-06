@@ -56,12 +56,12 @@
 .details .name {
   font-size: 14px;
   font-weight: 600;
-  color: #333;
+  color: var(--global-text-color);
 }
 .details .job {
   font-size: 12px;
   font-weight: 400;
-  color: #333;
+  color: var(--global-text-color);
 }
 /* swiper button css */
 .nav-btn {
