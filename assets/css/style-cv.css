@@ -73,7 +73,7 @@
   transition: 0.2s;
 }
 .nav-btn:hover {
-  background-color: var(--global-text-color);
+  background-color: var(--global-hover-color);
 }
 .nav-btn::after,
 .nav-btn::before {
