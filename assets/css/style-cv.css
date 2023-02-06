@@ -42,7 +42,7 @@
   padding: 0 50px;
   font-size: 14px;
   font-weight: 400;
-  color: #333;
+  color: var(--global-text-color);
 }
 .slide .quote-icon {
   font-size: 30px;
