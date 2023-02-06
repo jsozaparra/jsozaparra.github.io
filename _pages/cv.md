@@ -53,7 +53,7 @@ The rest of the images in this post are all zoomable, arranged into different mi
 
 Test
 
-<section class="container">
+<section class="container-slider">
       <div class="testimonial mySwiper">
         <div class="testi-content swiper-wrapper">
           <div class="slide swiper-slide">
