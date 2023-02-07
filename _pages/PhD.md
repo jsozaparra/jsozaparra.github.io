@@ -47,3 +47,19 @@ The rest of the images in this post are all zoomable, arranged into different mi
         {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+  <div class="splide__track">
+		<ul class="splide__list">
+			<li class="splide__slide">
+				<img src="/assets/img/1.jpg" alt="">
+			</li>
+			<li class="splide__slide">
+				<img src="/assets/img/2.jpg" alt="">
+			</li>
+			<li class="splide__slide">
+				<img src="/assets/img/3.jpg" alt="">
+			</li>
+		</ul>
+  </div>
+</section>
