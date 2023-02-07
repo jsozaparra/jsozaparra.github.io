@@ -56,19 +56,19 @@ Test
 			<li class="splide__slide">
 				<img src="/assets/img/1.jpg" alt="">
                 <div>
-					Description 01
-				</div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                </div>
 			</li>
 			<li class="splide__slide">
 				<img src="/assets/img/2.jpg" alt="">
                 <div>
-					Description 02
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 				</div>
 			</li>
 			<li class="splide__slide">
 				<img src="/assets/img/3.jpg" alt="">
                 <div>
-					Description 03
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 				</div>
 			</li>
 		</ul>
