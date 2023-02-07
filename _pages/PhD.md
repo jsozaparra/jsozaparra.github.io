@@ -50,7 +50,7 @@ The rest of the images in this post are all zoomable, arranged into different mi
 
 Test
 
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+<section id="card-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
