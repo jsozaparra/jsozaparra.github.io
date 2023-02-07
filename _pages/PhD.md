@@ -54,19 +54,21 @@ Test
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-				<img src="/assets/img/1.jpg" alt="">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/1.jpg" alt="">
+                </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide">
 				<img src="/assets/img/2.jpg" alt="">
                 <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 				</div>
 			</li>
 			<li class="splide__slide">
 				<img src="/assets/img/3.jpg" alt="">
                 <div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 				</div>
 			</li>
 		</ul>
