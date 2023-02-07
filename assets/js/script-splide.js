@@ -4,6 +4,7 @@ new Splide( '#card-carousel', {
   type   : 'loop',
   autoplay : true,
   interval: 3000,
+  speed:1500,
   breakpoints: {
     640: {
       perPage: 1,
