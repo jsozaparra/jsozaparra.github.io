@@ -60,16 +60,16 @@ Test
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide">
-				<img src="/assets/img/2.jpg" alt="">
-                <div>
+                <div class="splide__slide__container">
+				    <img src="/assets/img/2.jpg" alt="">
+                </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
-				</div>
 			</li>
 			<li class="splide__slide">
-				<img src="/assets/img/3.jpg" alt="">
-                <div>
+                <div class="splide__slide__container">
+				    <img src="/assets/img/3.jpg" alt="">
+                </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
-				</div>
 			</li>
 		</ul>
   </div>
