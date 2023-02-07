@@ -55,10 +55,8 @@ Test
 		<ul class="splide__list">
 			<li class="splide__slide">
 				<img src="/assets/img/1.jpg" alt="">
-                <div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
-                </div>
-			</li>
+            </li>
 			<li class="splide__slide">
 				<img src="/assets/img/2.jpg" alt="">
                 <div>
