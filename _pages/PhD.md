@@ -55,12 +55,21 @@ Test
 		<ul class="splide__list">
 			<li class="splide__slide">
 				<img src="/assets/img/1.jpg" alt="">
+                <div>
+					Description 01
+				</div>
 			</li>
 			<li class="splide__slide">
 				<img src="/assets/img/2.jpg" alt="">
+                <div>
+					Description 02
+				</div>
 			</li>
 			<li class="splide__slide">
 				<img src="/assets/img/3.jpg" alt="">
+                <div>
+					Description 03
+				</div>
 			</li>
 		</ul>
   </div>
