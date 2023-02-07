@@ -1,1 +1,3 @@
-new Splide( '#image-carousel' ).mount();
+new Splide( '#image-carousel', {
+  heightRatio: 0.5,
+} ).mount();
