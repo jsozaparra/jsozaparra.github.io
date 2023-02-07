@@ -1,7 +1,7 @@
 new Splide( '#image-carousel', {
   heightRatio: 0.5,
   perPage    : 2,
-  padding:  '3rem',
+  padding:  '0rem',
   type   : 'loop',
   breakpoints: {
     640: {
