@@ -1,9 +1,10 @@
 new Splide( '#card-carousel', {
-  perPage    : 3,
+  perPage: 3,
+  perMove: 1,
   autoHeight: true,
   gap:  '3rem',
-  type   : 'loop',
-  autoplay : true,
+  type: 'loop',
+  autoplay: true,
   interval: 5000,
   speed:2000,
   breakpoints: {
