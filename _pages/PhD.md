@@ -161,7 +161,7 @@ Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Sc
 <div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
    <img src="/assets/img/phd/lee.jpg" style="cursor:pointer; width: 560px; height: 315px;object-fit: cover; object-position: 100% 75%; display: block; margin-left: auto; margin-right: auto;  " />
 </div>
-<div style="display:none">
+<div style="display:none; margin-left: auto; margin-right: auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5MAJHtOmIjg?start=842&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <br>
