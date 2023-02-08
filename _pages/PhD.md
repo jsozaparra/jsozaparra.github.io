@@ -49,6 +49,12 @@ The rest of the images in this post are all zoomable, arranged into different mi
 </div>
 
 Test
+-----------
+## First-year: 2016
+
+By the end of 2015 I was about to get my Transportation Engineering professional title when I started to see myself working in academia in the near future. As I wanted to make some kind of contribution to my home town’s public transport system, I decided to enrol the PhD program in the Department of Transportation Engineering and Logistics, at PUC, Chile, under the supervision of Juan Carlos Muñoz and Sebastián Raveau.
+
+During 2016 I worked defining my dissertation research, which ended up focused on the causes and effects of public transport reliability. In August, I also had the chance to participate in the “Modeling and Simulation of Transportation Networks” MIT short course, as well as to attend the TransitData16 conference in Boston.
 
 <section id="card-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
