@@ -49,7 +49,7 @@ cv_pdf: CV2022.pdf
           <div class="slide swiper-slide">
             <img src="/assets/img/testimonials/LakeSagaris.jpg" alt="" class="image" />
             <p>
-              Big fan :-)
+              Big fan 😊
             </p>
             <i class="bx bxs-quote-alt-left quote-icon"></i>
             <div class="details">
