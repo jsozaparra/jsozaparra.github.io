@@ -60,37 +60,37 @@ During 2016 I worked defining my dissertation research, which ended up focused o
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-                <div class="splide__slide__container">
+                <div class="splide__slide__container" style="width: 400px">
 				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
-			<li class="splide__slide" style="width: 400px">>
+			<li class="splide__slide" style="width: 400px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
 			<li class="splide__slide">
-                <div class="splide__slide__container">
+                <div class="splide__slide__container" style="width: 400px">
 				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide">
-                <div class="splide__slide__container">
+                <div class="splide__slide__container" style="width: 400px">
 				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide">
-                <div class="splide__slide__container">
+                <div class="splide__slide__container" style="width: 400px">
 				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide">
-                <div class="splide__slide__container">
+                <div class="splide__slide__container" style="width: 400px">
 				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
