@@ -59,7 +59,7 @@ During 2016 I worked defining my dissertation research, which ended up focused o
 <section id="card-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide" style="height=200px">
+			<li class="splide__slide" style="height=400px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
