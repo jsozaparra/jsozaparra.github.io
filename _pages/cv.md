@@ -14,7 +14,7 @@ cv_pdf: CV2022.pdf
       <div class="testimonial mySwiper">
         <div class="testi-content swiper-wrapper">
           <div class="slide swiper-slide">
-            <img src="/assets/img/testimonials/SebastianRaveau-150x150.jpeg " alt="" class="image" />
+            <img src="/assets/img/testimonials/Raveau.jpg" alt="" class="image" />
             <p>
               Jaime is the full package: he has a broad knowledge on many topics, is a passionate teacher, and a wonderful guy
             </p>
