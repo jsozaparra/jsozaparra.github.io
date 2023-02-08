@@ -53,19 +53,19 @@ Test
 <section id="card-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide" style="height: 400px">
+			<li class="splide__slide">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
-			<li class="splide__slide" style="height: 400px">
+			<li class="splide__slide">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
-			<li class="splide__slide" style="height: 400px">
+			<li class="splide__slide">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/3.jpg" alt="" data-zoomable="">
                 </div>
