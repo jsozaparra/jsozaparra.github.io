@@ -158,7 +158,7 @@ Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Sc
   </div>
 </section>
 <br>
-<div onclick="this.nextElementSibling.style='display:block;margin-left: auto; margin-right: auto'; this.style.display='none'">
+<div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
    <img src="/assets/img/phd/lee.jpg" style="cursor:pointer; width: 560px; height: 315px;object-fit: cover; object-position: 100% 75%; display: block; margin-left: auto; margin-right: auto;  " />
 </div>
 <div style="display:none">
