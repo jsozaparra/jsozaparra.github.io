@@ -22,37 +22,37 @@ During 2016 I worked defining my dissertation research, which ended up focused o
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Some initial ideas in a white-board			
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                My advisors Seba and Juanca not understanding what my thesis was about	
 			</li>
 			<li class="splide__slide" style="width: 180px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                A copy of my candidacy exam/report. I got my engineer professional title because of it	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Roaming around Quincy Market, Boston with Jesper, Saeid, and Risky after the MIT shortcourse we were part of
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Having fun with Juanca, Sebastián, and Jaime in Boston Openstreets
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Sharing some drinks with Ignacio, Felipe, and Nicolas during the Chilean conference right before starting my gradstudies
 			</li>
 		</ul>
   </div>
