@@ -15,7 +15,7 @@ By the end of 2015 I was about to get my Transportation Engineering professional
 
 During 2016 I worked defining my dissertation research, which ended up focused on the causes and effects of public transport reliability. In August, I also had the chance to participate in the “Modeling and Simulation of Transportation Networks” MIT short course, as well as to attend the TransitData16 conference in Boston.
 
-<section id="card-carousel" class="splide" aria-label="Beautiful Images">
+<section id="card-carousel-1" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide" style="width: 180px">
@@ -65,7 +65,7 @@ By the very beginning of 2017, I submitted my candidacy document to evaluation, 
 
 One month later I started my external research stay in TU Delft, under the supervision of Oded Cats. Besides, the time I was there coincided with the creation of the Smart PT Lab, which I am still a member of. During this year, I also participated in two additional conferences, EWGT in Budapest, Hungary, and hEART in Haifa, Israel and also dictated a Demand Modelling short course in Universidad Autónoma de Baja California, México.
 
-<section id="card-carousel" class="splide" aria-label="Beautiful Images">
+<section id="card-carousel-2" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide" style="width: 180px">
@@ -115,7 +115,7 @@ In January I participated in two conferences: TRB, in Washington D.C., U.S.A., a
 
 Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship, which I received at the World Bank Headquarters, where I had the chance to present my dissertation
 
-<section id="card-carousel" class="splide" aria-label="Beautiful Images">
+<section id="card-carousel-3" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide" style="width: 180px">
@@ -165,7 +165,7 @@ In addition to the presentation at the World Bank, I also presented in TRB the s
 
 Finally, during the beginning of the COVID outbreak in Chile, I successfully defended my PhD on the 23rd of April 2020.
 
-<section id="card-carousel" class="splide" aria-label="Beautiful Images">
+<section id="card-carousel-4" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide" style="width: 180px">
