@@ -1,6 +1,6 @@
 new Splide( '#card-carousel', {
   perPage    : 3,
-  autoHeight: true,
+  autoHeight: false,
   gap:  '3rem',
   type   : 'loop',
   autoplay : true,
