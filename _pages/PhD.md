@@ -55,19 +55,37 @@ Test
 		<ul class="splide__list">
 			<li class="splide__slide">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/1.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/2.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
 			<li class="splide__slide">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/3.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
