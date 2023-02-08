@@ -20,5 +20,3 @@ My <span class="hovertext" data-hover="I don´t use my middle name, Antonio, and
 My research interests focus on the analysis of different data sources, from passively collected (e.g. smartcard information) to surveys (e.g. discrete choice stated preference surveys) to understand how uncertainty impacts travellers behaviour.
 
 I am also concerned about cities increasing growth rate and its sustainability implications. Thus, I see public transportation and active transport as the alternatives the promote. To do so, I think it is also quite important to understand private-car driver's attitudes towards mobility, especially on how to encourage a fairer use of the space.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
