@@ -218,3 +218,9 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
   </div>
 </section> 
 <br>
+<p align="center">
+<video width="560" height="315" controls>
+  <source src="/assets/img/phd/Defence-Video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</p>
