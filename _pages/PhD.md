@@ -2,7 +2,7 @@
 layout: pageII
 title:  phd
 titledisp: phd experience
-description: this is what included images could look like
+description: a brief summary of my life as a gradstudent
 tags: formatting images
 categories: sample-posts
 nav: true
@@ -57,7 +57,7 @@ During 2016 I worked defining my dissertation research, which ended up focused o
 		</ul>
   </div>
 </section>
-
+<br>
 
 ## Second-year: 2017
 
@@ -107,7 +107,7 @@ One month later I started my external research stay in TU Delft, under the super
 		</ul>
   </div>
 </section>
-
+<br>
 
 ## Third-year: 2018
 
@@ -157,7 +157,7 @@ Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Sc
 		</ul>
   </div>
 </section>
-
+<br>
 
 ## Fourth-year: 2019
 
@@ -206,4 +206,5 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
 			</li>
 		</ul>
   </div>
-</section>
+</section> 
+<br>
