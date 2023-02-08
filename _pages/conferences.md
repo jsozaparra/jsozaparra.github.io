@@ -10,7 +10,7 @@ nav_order: 2
 ---
 
 
-<div class="fake-img l-page">
+<div class="l-page-outset">
   <p>.l-page</p>
 </div>
 <div id="map" style="width: 1200px; height: 500px;"></div>
