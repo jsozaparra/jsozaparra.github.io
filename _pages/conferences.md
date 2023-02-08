@@ -9,7 +9,7 @@ nav: true
 nav_order: 2
 ---
 
-<div id="map l-body-outset" style="width: 1200px; height: 500px;"></div>
+<div id="map" style="width: 1200px; height: 500px;"></div>
 
 <script>
 
