@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Doctor of Engineering Sciences.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_full_col.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
