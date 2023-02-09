@@ -334,5 +334,7 @@ dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibu
 <p align="center">
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px; height: 300px;object-fit: cover; object-position: 100% 25%;">
 </p>
-
+<p align="center">
+<img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;">
+</p>
 
