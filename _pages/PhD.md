@@ -68,39 +68,87 @@ One month later I started my external research stay in TU Delft, under the super
 <section id="card-carousel-2" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide" style="width: 180px">
+			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-0.jpg" alt="" data-zoomable="">
+                </div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+            </li>			
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
-			<li class="splide__slide" style="width: 180px">
+			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/2-Phd-6.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-7.jpg" alt="" data-zoomable="">
+                </div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+            </li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/2-Phd-8.jpg" alt="" data-zoomable="">
+                </div>
+                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-9.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-10.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-11.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-12.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/2-Phd-13.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
@@ -118,39 +166,69 @@ Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Sc
 <section id="card-carousel-3" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide" style="width: 180px">
+			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
-			<li class="splide__slide" style="width: 180px">
+			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/3-Phd-6.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/3-Phd-7.jpg" alt="" data-zoomable="">
+                </div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+            </li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/3-Phd-8.jpg" alt="" data-zoomable="">
+                </div>
+                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/3-Phd-9.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/3-Phd-10.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/3-Phd-11.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
@@ -178,39 +256,75 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
 <section id="card-carousel-4" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide" style="width: 180px">
+			            <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-1.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/phd/1-Phd-2.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
                 ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
-			<li class="splide__slide" style="width: 180px">
+			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-4.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-5.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/1-Phd-6.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-6.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/4-Phd-7.jpg" alt="" data-zoomable="">
+                </div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+            </li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container">
+				    <img src="/assets/img/phd/4-Phd-8.jpg" alt="" data-zoomable="">
+                </div>
+                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+			<li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/4-Phd-9.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/4-Phd-10.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="">
+                </div>
+                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/4-Phd-12.jpg" alt="" data-zoomable="">
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
