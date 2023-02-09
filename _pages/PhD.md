@@ -316,12 +316,6 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
                 </div>
                 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
 			</li>
-            <li class="splide__slide" style="width: 300px">
-                <div class="splide__slide__container" >
-				    <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="">
-                </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
-			</li>
 		</ul>
   </div>
 </section> 
@@ -338,6 +332,6 @@ Your browser does not support the video tag.
 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
 <p align="center">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/phd/4-Phd-12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/phd/4-Phd-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 </p>
