@@ -331,15 +331,8 @@ Your browser does not support the video tag.
 ## final thoughts
 
 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
-
-<div class="img-fluid rounded z-depth-1">
-    <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 300px">
-</div>
-
 <p align="center">
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0" style="width: 300px">
-        {% include figure.html path="assets/img/phd/4-Phd-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+<img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 500px">
 </p>
+
+
