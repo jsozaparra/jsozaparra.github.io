@@ -33,7 +33,7 @@ During 2016 I worked defining my dissertation research, which ended up focused o
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/1-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
-                A copy of my candidacy exam/report. I got my engineer professional title because of it	
+                A copy of my candidacy exam/report. I got my engineer professional title because of it <br><br>
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
