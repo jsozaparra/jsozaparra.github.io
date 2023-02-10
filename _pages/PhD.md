@@ -84,19 +84,19 @@ One month later I started my external research stay in TU Delft, under the super
                 </div>
                 Mobilize CoAXs exhibition 
 			</li>
-			<li class="splide__slide" style="width: 300px">
+			<li class="splide__slide" style="width: 350px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
                 Maife and Felipe uploading survey responses to the platform 	
 			</li>
-            <li class="splide__slide" style="width: 300px">
+            <li class="splide__slide" style="width: 350px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
                 Niklas asking a passenger to evaluate their last public transport trip	
 			</li>
-            <li class="splide__slide" style="width: 300px">
+            <li class="splide__slide" style="width: 350px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
@@ -120,7 +120,7 @@ One month later I started my external research stay in TU Delft, under the super
                 </div>
                 Seba, Felipe, Francisco and me in Budapest	
 			</li>
-			<li class="splide__slide" style="width: 300px">
+			<li class="splide__slide" style="width: 180px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-9.jpg" alt="" data-zoomable="">
                 </div>
@@ -144,7 +144,7 @@ One month later I started my external research stay in TU Delft, under the super
                 </div>
                 Charing a session for the first time!
 			</li>
-            <li class="splide__slide" style="width: 300px">
+            <li class="splide__slide" style="width: 350px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-13.jpg" alt="" data-zoomable="">
                 </div>
