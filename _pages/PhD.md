@@ -335,10 +335,6 @@ Your browser does not support the video tag.
 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
 </p>
 
-<p align="center">
-<img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;height:300px; object-fit:cover; object-position: 100% 25%;">
-</p>
-
 <div class="row mt-3" style="width: 400px;display: block; margin-left: auto; margin-right: auto; ">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/phd/4-Phd-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
