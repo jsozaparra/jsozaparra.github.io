@@ -124,7 +124,7 @@ One month later I started my external research stay in TU Delft, under the super
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-9.jpg" alt="" data-zoomable="">
                 </div>
-                Presenting during EWGT17, second conference<br>
+                Presenting during EWGT17, second conference<br><br>
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
