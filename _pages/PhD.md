@@ -187,7 +187,7 @@ By the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship
                 </div>
                 Carolina, Seba, and me roaming aroung Kinderdijk
 			</li>
-            <li class="splide__slide" style="width: 300px">
+            <li class="splide__slide" style="width: 200px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
