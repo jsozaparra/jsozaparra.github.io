@@ -256,61 +256,67 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Presentation at the BRT General Assembly 2019			
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/4-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Walking around Fortaleza with Juanca, during Mobilize 2019
 			</li>
-			<li class="splide__slide" style="width: 300px">
+			<li class="splide__slide" style="width: 200px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Transitdata attendees during the conference in Paris
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Presentation at Transitdata19	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Taking the Paris Metro with Jesper after the conference	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Presentation 1/2 at the Chilean Transportation Engineering Conference
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-7.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Presentation 2/2 at the Chilean Transportation Engineering Conference
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/4-Phd-8.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                'I would erase my thesis for a fairer Chile'; 25 October 2019
 			</li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-9.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Desk setup at PUC Chile - final stage
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/4-Phd-10.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Transportation Engineering and Logistics Department, PUC Chile
+			</li>
+            <li class="splide__slide" style="width: 300px">
+                <div class="splide__slide__container" >
+				    <img src="/assets/img/phd/Defence.jpg" alt="" data-zoomable="">
+                </div>
+                After three hours of online defence: Dr. Jaime Soza-Parra
 			</li>
 		</ul>
   </div>
