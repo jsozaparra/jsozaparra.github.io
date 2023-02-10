@@ -334,9 +334,11 @@ Your browser does not support the video tag.
 <p align="justify">
 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
 </p>
-<p align="center">
+
+<div><p align="center">
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px; height: 300px;object-fit: cover; object-position: 100% 25%;">
-</p>
+</p></div>
+
 <p align="center">
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;">
 </p>
