@@ -70,85 +70,85 @@ One month later I started my external research stay in TU Delft, under the super
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-0.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                First international conference presentation: Transitdata2017				
             </li>			
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                CoAXs Chile team: Ignacio Tiznado-Aitken, Tomás Cox, Cristián Navas, and Ricardo Sánchez				
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/2-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Mobilize CoAXs exhibition 
 			</li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Maife and Felipe uploading survey responses to the platform 	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Niklas asking a passenger to evaluate their last public transport trip	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Mental collapse when my cactus fell over my desk	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Seba and Juanca receiving my 'Best Teaching Assistant' award	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-7.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Just arrived from Chile to the Delft train station				
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/2-Phd-8.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Seba, Felipe, Francisco and me in Budapest	
 			</li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-9.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Presenting during EWGT17, second conference	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-10.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Having fun with Seba during a coffee break	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-11.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Hand gestures during hEART conference, Haifa, Israel	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-12.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Charing a session for the first time!
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/2-Phd-13.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                TU Delft desk setup
 			</li>
 		</ul>
   </div>
@@ -158,7 +158,7 @@ One month later I started my external research stay in TU Delft, under the super
 ## third-year: 2018
 <p align="justify">
 In January I participated in two conferences: TRB, in Washington D.C., U.S.A., and INSTR, in Sydney, Australia. Four months later I ended my external research stay in TU Delft and came back to Chile, to start the second half of my dissertation. I participated in three additional conferences: IATBR, Santa Barbara, U.S.A., CASPT/TransitData in Brisbane, Australia and PANAM in Medellín, Colombia. <br><br>
-Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship, which I received at the World Bank Headquarters, where I had the chance to present my dissertation
+By the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship, which I received at the World Bank Headquarters, where I had the chance to present my dissertation
 </p>
 <section id="card-carousel-3" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
