@@ -60,11 +60,11 @@ During 2016 I worked defining my dissertation research, which ended up focused o
 <br>
 
 ## second-year: 2017
-
+<p align="justify">
 By the very beginning of 2017, I submitted my candidacy document to evaluation, which I successfully defended on May 29th, one week after presenting in an international conference for the first time: TransitData17, in Santiago. In June, together with Ricardo Sánchez (MIT), Cristián Navas (MIT) and Ignacio Tiznado-Aitken (PUC) applied the CoAXs platform to Santiago de Chile and presented our results in the MOBILIZE summit. One month later, we conducted a satisfaction survey in the surroundings of four different metro stations, which was part of my dissertation and ended up being the first published article of it.
 
 One month later I started my external research stay in TU Delft, under the supervision of Oded Cats. Besides, the time I was there coincided with the creation of the Smart PT Lab, which I am still a member of. During this year, I also participated in two additional conferences, EWGT in Budapest, Hungary, and hEART in Haifa, Israel and also dictated a Demand Modelling short course in Universidad Autónoma de Baja California, México.
-
+</p>
 <section id="card-carousel-2" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -158,11 +158,11 @@ One month later I started my external research stay in TU Delft, under the super
 <br>
 
 ## third-year: 2018
-
+<p align="justify">
 In January I participated in two conferences: TRB, in Washington D.C., U.S.A., and INSTR, in Sydney, Australia. Four months later I ended my external research stay in TU Delft and came back to Chile, to start the second half of my dissertation. I participated in three additional conferences: IATBR, Santa Barbara, U.S.A., CASPT/TransitData in Brisbane, Australia and PANAM in Medellín, Colombia. 
 
 Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship, which I received at the World Bank Headquarters, where I had the chance to present my dissertation
-
+</p>
 <section id="card-carousel-3" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -248,11 +248,11 @@ Finally, by the end of this year, I was awarded the Lee Schipper’s Memorial Sc
 
 
 ## fourth-year: 2019
-
+<p align="justify">
 In addition to the presentation at the World Bank, I also presented in TRB the same week. I participated in two additional conferences this year: TransitData, in Paris, France, and in the Chilean Conference of Transport Engineering, in Santiago, Chile. In October, we conducted the second (and last) survey of my dissertation. With this milestone, I was able to start finishing my dissertation document.
 
 Finally, during the beginning of the COVID outbreak in Chile, I successfully defended my PhD on the 23rd of April 2020.
-
+</p>
 <section id="card-carousel-4" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
@@ -329,8 +329,9 @@ Your browser does not support the video tag.
 <br>
 
 ## final thoughts
-
+<p align="justify">
 dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
+</p>
 <p align="center">
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px; height: 300px;object-fit: cover; object-position: 100% 25%;">
 </p>
