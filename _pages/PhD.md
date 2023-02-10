@@ -339,3 +339,8 @@ dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibu
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;height:300px; object-fit:cover; object-position: 100% 25%;">
 </p>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/phd/4-Phd-11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
