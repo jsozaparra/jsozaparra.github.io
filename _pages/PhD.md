@@ -343,3 +343,7 @@ dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibu
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;">
 </p>
 
+<p align="center">
+<img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px; position: absolute; clip: rect(0px,60px,200px,0px);">
+</p>
+
