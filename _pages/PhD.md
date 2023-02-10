@@ -336,8 +336,6 @@ dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibu
 </p>
 
 <p align="center">
-<div class="crop" style="max-height:300px; overflow:'clip'">
 <img src="/assets/img/phd/4-Phd-11.jpg" alt="" data-zoomable="" style="width: 400px;">
-</div>
 </p>
 
