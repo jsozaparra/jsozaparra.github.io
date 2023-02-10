@@ -294,7 +294,7 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
                 </div>
                 Presentation 2/2 at the Chilean Transportation Engineering Conference
             </li>
-			<li class="splide__slide" style="width: 300px">
+			<li class="splide__slide" style="width: 180px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/4-Phd-8.jpg" alt="" data-zoomable="">
                 </div>
