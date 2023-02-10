@@ -1,7 +1,7 @@
 new Splide( '#card-carousel-1', {
   perPage: 3,
   perMove: 1,
-  focus: 2,
+  focus: 1,
   autoWidth: true,
   gap:  '3rem',
   type: 'loop',
@@ -18,7 +18,7 @@ new Splide( '#card-carousel-1', {
 new Splide( '#card-carousel-2', {
   perPage: 3,
   perMove: 1,
-  focus: 2,
+  focus: 1,
   autoWidth: true,
   gap:  '3rem',
   type: 'loop',
@@ -35,7 +35,7 @@ new Splide( '#card-carousel-2', {
 new Splide( '#card-carousel-3', {
   perPage: 3,
   perMove: 1,
-  focus: 2,
+  focus: 1,
   autoWidth: true,
   gap:  '3rem',
   type: 'loop',
@@ -52,7 +52,7 @@ new Splide( '#card-carousel-3', {
 new Splide( '#card-carousel-4', {
   perPage: 3,
   perMove: 1,
-  focus: 2,
+  focus: 1,
   autoWidth: true,
   gap:  '3rem',
   type: 'loop',
