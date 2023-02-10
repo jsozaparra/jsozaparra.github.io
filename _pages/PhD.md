@@ -167,67 +167,67 @@ By the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-1.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Poster session during my first TRB, January 2018
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/3-Phd-2.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Ignacio's bad joke reaction during the BRT General Assembly
 			</li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-3.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Sharing a beer with Ignacio in Sydney's harbour during INSTR18
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-4.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Carolina, Seba, and me roaming aroung Kinderdijk
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-5.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Bikeride across the tulip fields with Nicolás	
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-6.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Last selfie in Delft right before coming back to Chile
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-7.jpg" alt="" data-zoomable="">
                 </div>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.				
+                Juanca figuring out how to solve some misterious issue			
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
 				    <img src="/assets/img/phd/3-Phd-8.jpg" alt="" data-zoomable="">
                 </div>
-                ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Pretending to be working in Sebastián's office
 			</li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-9.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Presenting my work at IATBR18, in Santa Barbara, U.S.
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-10.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Presenting my work at CASPT18, in Brisbane, Australia
 			</li>
             <li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-11.jpg" alt="" data-zoomable="">
                 </div>
-                dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.	
+                Last presentation of 2018: PANAM conference in Medellín, Colombia	
 			</li>
 		</ul>
   </div>
