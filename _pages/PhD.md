@@ -203,7 +203,7 @@ By the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship
                 <div class="splide__slide__container" >
 				    <img src="/assets/img/phd/3-Phd-7.jpg" alt="" data-zoomable="">
                 </div>
-                Juanca figuring out how to solve some misterious issue			
+                Juanca figuring out how to solve some misterious issue<br><br>	
             </li>
 			<li class="splide__slide" style="width: 300px">
                 <div class="splide__slide__container">
