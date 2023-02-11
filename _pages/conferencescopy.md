@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 <div class="l-body-outset">
-<div id="map" style="width: 900px; height: 500px;"></div>
+<div id="map" style="width: 1000px; height: 500px;"></div>
 </div>
 
 
