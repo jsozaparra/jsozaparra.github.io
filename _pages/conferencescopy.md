@@ -6,7 +6,7 @@ description: Interactive Leaflet map with the conferences where I have presented
 tags: formatting images
 categories: sample-posts
 nav: true
-nav_order: 7
+nav_order: 2
 ---
 <div style="display:inline-block;">
 <div id="map" style="width: 800px; height: 500px;"></div>
