@@ -6,9 +6,8 @@ description: Interactive Leaflet map with the conferences where I have presented
 nav: true
 nav_order: 7
 ---
-<div style="display:inline-block;">
+
 <div id="map" style="width: 900px; height: 500px;"></div>
-</div>
 
 
 <script>
