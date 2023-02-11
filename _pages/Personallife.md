@@ -12,6 +12,7 @@ In june 2019, right during the last strecht of my <a href="https://www.reddit.co
 I was inmensely lucky to find, in right time, a multidisciplinar team with vast experience in pain management. After psichological therapy, kinesiological education, and the help of some prescriptions, I learned how to manage and have a more satisfactory life. Some lifestyle changes can also help reduce the severity of some synthoms. For example, there is evidence that some food aditives, such as dietary glutamate (MSG) may have negative effects in some patients <a href="https://www.researchgate.net/publication/246747392_Preliminary_results_of_a_novel_dietary_intervention_in_fibromyalgia_patients_with_irritable_bowel_syndrome">(Holton et al., 2012)</a>.<br><br>
 If you are in academia, struggle with fibro or some similar condition, and would like to chat about it, feel free to drop me a message at sozaparra [at] gmail [dot] com.
 </p>
+<br><br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
