@@ -22,7 +22,7 @@ This is an example post with image galleries.
         {% include figure.html path="https://me-pedia.org/images/9/99/Spoon-theory.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/4832-fibromyalgia.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="https://www.verywellhealth.com/thmb/x26bvm2-3ufDYG8IBrTXGZzbSZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fibromyalgia-symptoms-5aec9feceb97de003668abb7.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
