@@ -6,7 +6,7 @@ description: Interactive Leaflet map with the conferences where I have presented
 nav: true
 nav_order: 7
 ---
-<div class="fake-img l-page">
+<div class="l-body-outset">
 <div id="map" style="width: 900px; height: 500px;"></div>
 </div>
 
