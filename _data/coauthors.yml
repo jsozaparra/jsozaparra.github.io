@@ -1,11 +1,15 @@
 "Raveau":
-  - firstname: ["Raveau"]
+  - firstname: ["Sebastián", "S"]
     url: https://scholar.google.com/citations?user=wXrXo9QAAAAJ&hl=en&oi=ao
 
 "Muñoz":
-  - firstname: ["Muñoz", "Munoz"]
+  - firstname: ["Juan", "Juan Carlos", "J.", "J.C."]
+    url: https://scholar.google.com/citations?user=6lhrINgAAAAJ&hl=en&oi=ao
+
+"Munoz":
+  - firstname: ["Juan", "Juan Carlos", "J.", "J.C."]
     url: https://scholar.google.com/citations?user=6lhrINgAAAAJ&hl=en&oi=ao
 
 "Cats":
-  - firstname: ["Cats"]
+  - firstname: ["Oded", "O."]
     url: https://scholar.google.com/citations?hl=en&user=ffzMB8UAAAAJ
