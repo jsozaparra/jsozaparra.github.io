@@ -3,8 +3,6 @@ layout: pageII
 title:  talks
 titledisp: talks and conferences
 description: Interactive Leaflet map with the conferences where I have presented my work
-tags: formatting images
-categories: sample-posts
 nav: true
 nav_order: 2
 ---

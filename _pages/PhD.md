@@ -3,8 +3,6 @@ layout: pageII
 title:  phd
 titledisp: phd experience
 description: a brief summary of my life as a gradstudent
-tags: formatting images
-categories: sample-posts
 nav: true
 nav_order: 4
 ---
