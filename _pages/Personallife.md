@@ -11,11 +11,10 @@ nav_order: 5
 
 ## fibromyalgia
 <p align="justify">
-In june 2019, right during the last strecht of my <a href="https://www.reddit.com/r/Fibromyalgia/comments/g6y77p/i_have_just_got_my_phd_its_possible/">graduate studies</a>, I was diagnosed with fibromyalgia. Fibromyalgia is a chronic condition that causes widespread pain and tenderness in the muscles, joints, and soft tissues of the body  <a href="https://www.nature.com/articles/nrdp201522">(Häuser et al., 2015)</a>. It can also cause fatigue, sleep problems, cognitive difficulties, and brain fog. The exact cause of fibromyalgia is unknown, but it is believed to involve a complex interaction between genetic, environmental, and psychological factors  <a href="https://jamanetwork.com/journals/jama/article-abstract/1860480">(Holton et al., 2010)</a>. For me fibromyalgia feels like having constantly a hiking bag on my shoulders, neck, and back. The brain fog, or this hazy feeling in your brain that makes it hard to focus, also hits me from time to time. It makes things quite hard when trying to concentrate on meetings or on any academic task. A common way to explain how it feels to others is the "Spoon Theory", in which daily tasks consume certain amounts of spoons with the following catch: you don't start each day with the same amount, and doing too much can affect the number of spoons you have the following day (<i>see below</i>).  
-These findings suggest that dietary glutamate may be contributing to FM symptoms in some patients <a href="https://www.sciencedirect.com/science/article/pii/S1526590010002373">(Clauw, 2014)</a>
+In june 2019, right during the last strecht of my <a href="https://www.reddit.com/r/Fibromyalgia/comments/g6y77p/i_have_just_got_my_phd_its_possible/">graduate studies</a>, I was diagnosed with fibromyalgia. Fibromyalgia is a chronic condition that causes widespread pain and tenderness in the muscles, joints, and soft tissues of the body  <a href="https://www.nature.com/articles/nrdp201522">(Häuser et al., 2015)</a>. It can also cause fatigue, sleep problems, cognitive difficulties, and brain fog. The exact cause of fibromyalgia is unknown, but it is believed to involve a complex interaction between genetic, environmental, and psychological factors  <a href="https://jamanetwork.com/journals/jama/article-abstract/1860480">(Holton et al., 2010)</a>. For me fibromyalgia feels like having constantly a hiking bag on my shoulders, neck, and back. The brain fog, or this hazy feeling in your brain that makes it hard to focus, also hits me from time to time. It makes things quite hard when trying to concentrate on meetings or on any academic task. A common way to explain how it feels to others is the "Spoon Theory", in which daily tasks consume certain amounts of spoons with the following catch: you don't start each day with the same amount, and doing too much can affect the number of spoons you have the following day (<i>see below</i>). <br><br>
+I was inmensely lucky to find, in right time, a multidisciplinar team with vast experience in pain management. After psichological therapy, kinesiological education, and the help of some prescriptions, I learned how to manage and have a more satisfactory life. Some lifestyle changes can also help reduce the severity of some synthoms. For example, there is evidence that some food aditives, such as dietary glutamate may have negative effects in some patients <a href="https://www.sciencedirect.com/science/article/pii/S1526590010002373">(Clauw, 2014)</a>.<br><br>
+If you are in academia, struggle with fibro or some similar condition, and would like to chat about it, feel free to drop me a message at sozaparra [at] gmail [dot] com.
 </p>
-
-This is an example post with image galleries.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,7 +25,7 @@ This is an example post with image galleries.
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
+    The spoon theory and a summary of some of the most commmon symptoms of fibromyalgia. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
 </div>
 
 Images can be made zoomable.
