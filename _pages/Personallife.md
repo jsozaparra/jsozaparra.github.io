@@ -1,15 +1,12 @@
 ---
 layout: pageII
-title:  personal life
-titledisp: personal life
-description: a brief summary of my life as a gradstudent
-tags: formatting images
-categories: sample-posts
+title:  fibromyalgia
+titledisp: fibromyalgia
+description: living witb fibro in academia
 nav: true
 nav_order: 5
 ---
 
-## fibromyalgia
 <p align="justify">
 In june 2019, right during the last strecht of my <a href="https://www.reddit.com/r/Fibromyalgia/comments/g6y77p/i_have_just_got_my_phd_its_possible/">graduate studies</a>, I was diagnosed with fibromyalgia. Fibromyalgia is a chronic condition that causes widespread pain and tenderness in the muscles, joints, and soft tissues of the body  <a href="https://www.nature.com/articles/nrdp201522">(Häuser et al., 2015)</a>. It can also cause fatigue, sleep problems, cognitive difficulties, and brain fog. The exact cause of fibromyalgia is unknown, but it is believed to involve a complex interaction between genetic, environmental, and psychological factors  <a href="https://jamanetwork.com/journals/jama/article-abstract/1860480">(Clauw, 2014)</a>. For me fibromyalgia feels like having constantly a hiking bag on my shoulders, neck, and back. The brain fog, or this hazy feeling in your brain that makes it hard to focus, also hits me from time to time. It makes things quite hard when trying to concentrate on meetings or on any academic task. A common way to explain how it feels to others is the "Spoon Theory", in which daily tasks consume certain amounts of spoons with the following catch: you don't start each day with the same amount, and doing too much can affect the number of spoons you have the following day (<i>see below</i>). <br><br>
 I was inmensely lucky to find, in right time, a multidisciplinar team with vast experience in pain management. After psichological therapy, kinesiological education, and the help of some prescriptions, I learned how to manage and have a more satisfactory life. Some lifestyle changes can also help reduce the severity of some synthoms. For example, there is evidence that some food aditives, such as dietary glutamate (MSG) may have negative effects in some patients <a href="https://www.researchgate.net/publication/246747392_Preliminary_results_of_a_novel_dietary_intervention_in_fibromyalgia_patients_with_irritable_bowel_syndrome">(Holton et al., 2012)</a>.<br><br>
@@ -26,30 +23,4 @@ If you are in academia, struggle with fibro or some similar condition, and would
 </div>
 <div class="caption">
     The spoon theory and a summary of some of the most commmon symptoms of fibromyalgia. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
-</div>
-
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-The rest of the images in this post are all zoomable, arranged into different mini-galleries.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
 </div>
