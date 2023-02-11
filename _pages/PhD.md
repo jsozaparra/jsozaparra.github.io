@@ -298,7 +298,7 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
             </li>
 			<li class="splide__slide" style="width: 180px">
                 <div class="splide__slide__container">
-				    <img src="/assets/img/phd/4-Phd-8.jpg" alt="" data-zoomable="">
+				    <img src="/assets/img/phd/4-Phd-8-2.jpg" alt="" data-zoomable="">
                 </div>
                 'I would erase my thesis for a fairer Chile'; 25 October 2019<br><br>
 			</li>
