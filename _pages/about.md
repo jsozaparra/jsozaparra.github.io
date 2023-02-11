@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uu.nl/staff/JASozaParra'>Assistant Professor in Transport Analysis and Data Science, Utrecht University</a>. Doctor of Engineering Sciences.
+subtitle: <a href='https://www.uu.nl/staff/JASozaParra'>Assistant Professor in Transport Analysis and Data Science, Utrecht University</a>.<br>Doctor of Engineering Sciences.
 
 profile:
   align: right
