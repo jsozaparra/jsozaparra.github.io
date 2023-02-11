@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 <div style="display:inline-block;">
-<div id="map" style="width: 800px; height: 500px;"></div>
+<div id="map" style="width: 900px; height: 500px;"></div>
 </div>
 
 
