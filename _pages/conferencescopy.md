@@ -1,5 +1,5 @@
 ---
-layout: pageII
+layout: post
 title:  talks
 titledisp: talks and conferences
 description: Interactive Leaflet map with the conferences where I have presented my work
