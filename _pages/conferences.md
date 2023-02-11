@@ -8,10 +8,9 @@ categories: sample-posts
 nav: true
 nav_order: 2
 ---
-<div style="text-align:center">
-<div style="display:inline-block;margin-left: auto;margin-right:auto;">
+<div style="display:inline-block;margin-left: auto;margin-right:auto;text-align:center">
 <div id="map" style="width: 900px; height: 500px;"></div>
-</div></div>
+</div>
 
 
 <script>
