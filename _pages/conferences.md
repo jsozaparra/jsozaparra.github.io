@@ -13,7 +13,7 @@ nav_order: 2
 </div>-->
 
 <div style=" display: flex;justify-content: center;align-items: center;">
-<div id="map" style="width: 900px; height: 500px;"></div>
+<div id="map" style="width: 900px; height: 500px;display:inline-block;"></div>
 </div>
 
 
