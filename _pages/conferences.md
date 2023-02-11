@@ -8,9 +8,14 @@ categories: sample-posts
 nav: true
 nav_order: 2
 ---
-<div style="display:block;margin-left: auto;margin-right: auto;">
+<div style="display:inline-block;margin-left: auto;margin-right: auto;">
 <div id="map" style="width: 800px; height: 500px;"></div>
 </div>
+
+<div style=" display: flex;justify-content: center;align-items: center;">
+<div id="map" style="width: 800px; height: 500px;"></div>
+</div>
+
 
 <script>
 
