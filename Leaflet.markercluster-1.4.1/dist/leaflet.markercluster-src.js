@@ -17,7 +17,7 @@
 var MarkerClusterGroup = L.MarkerClusterGroup = L.FeatureGroup.extend({
 
 	options: {
-		maxClusterRadius: 110, //A cluster will cover at most this many pixels from its center
+		maxClusterRadius: 115, //A cluster will cover at most this many pixels from its center
 		iconCreateFunction: null,
 		clusterPane: L.Marker.prototype.options.pane,
 
