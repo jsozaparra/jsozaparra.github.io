@@ -26,7 +26,7 @@ This is an example post with image galleries.
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
 </div>
 
 Images can be made zoomable.
