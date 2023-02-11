@@ -3,7 +3,7 @@ var swiper = new Swiper(".mySwiper", {
   spaceBetween: 0,
   grabCursor: true,
   loop: true,
-  speed:2000,
+  speed:1000,
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
@@ -13,7 +13,7 @@ var swiper = new Swiper(".mySwiper", {
     prevEl: ".swiper-button-prev",
   },
   autoplay: {
-    delay: 5000,
+    delay: 4000,
     pauseOnMouseEnter: true,
     disableOnInteraction: false,
   },
