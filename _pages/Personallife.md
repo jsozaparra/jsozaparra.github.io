@@ -11,11 +11,8 @@ nav_order: 5
 
 ## fibromyalgia
 <p align="justify">
-By the end of 2015 I was about to get my Transportation Engineering professional title when I started to see myself working in academia in the near future. As I wanted to make some kind of contribution to my home town’s public transport system, I decided to enrol the PhD program in the Department of Transportation Engineering and Logistics, at PUC, Chile, under the supervision of Juan Carlos Muñoz and Sebastián Raveau.<br><br>
-During 2016 I worked defining my dissertation research, which ended up focused on the causes and effects of public transport reliability. In August, I also had the chance to participate in the “Modeling and Simulation of Transportation Networks” MIT short course, as well as to attend the TransitData16 conference in Boston.
-
-
-These findings suggest that dietary glutamate may be contributing to FM symptoms in some patients <a href="https://www.sciencedirect.com/science/article/pii/S1526590010002373">(Holton et al., 2010)</a>
+Fibromyalgia is a chronic condition that causes widespread pain and tenderness in the muscles, joints, and soft tissues of the body  <a href="https://www.nature.com/articles/nrdp201522">(Häuser et al., 2015)</a>. It can also cause fatigue, sleep problems, cognitive difficulties, and brain fog. The exact cause of fibromyalgia is unknown, but it is believed to involve a complex interaction between genetic, environmental, and psychological factors  <a href="https://jamanetwork.com/journals/jama/article-abstract/1860480">(Holton et al., 2010)</a>.
+These findings suggest that dietary glutamate may be contributing to FM symptoms in some patients <a href="https://www.sciencedirect.com/science/article/pii/S1526590010002373">(Clauw, 2014)</a>
 </p>
 
 This is an example post with image galleries.
