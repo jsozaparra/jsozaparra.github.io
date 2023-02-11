@@ -8,11 +8,9 @@ categories: sample-posts
 nav: true
 nav_order: 2
 ---
-<d-article>
-<div class="l-body-outset">
+<div style="display: inline-block">
 <div id="map" style="width: 900px; height: 500px;"></div>
 </div>
-</d-article>
 
 
 <script>
