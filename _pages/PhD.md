@@ -334,7 +334,8 @@ Your browser does not support the video tag.
 
 ## final thoughts
 <p align="justify">
-dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.dolor sit amet, consectetur adipiscing elit. Ut ullamcorper elit tempus, faucibus turpis id, congue nunc. Duis urna eros.
+During my defense, Sebastián asked me what had changed in me after four years of this PhD journey. After thinking about it for a few seconds, I gave my answer, which I believe becomes truer with each passing year. When I decided to pursue a PhD, I thought I had more answers than questions, perhaps due to my arrogance, I believed I already knew what I would discover. However, today I feel quite the opposite, as I find myself with more questions than answers. Paradoxically, this uncertainty gives me energy. To me, science means finding beauty in ignorance. <br>
+I want to thank Sebastián and Juan Carlos from the bottom of my heart for raising me up both figuratively and literally (see below). Without their continuous support and commitment, I wouldn't have come this far.
 </p>
 
 <div class="row mt-3" style="width: 400px;display: block; margin-left: auto; margin-right: auto; ">
