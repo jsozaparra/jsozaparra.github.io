@@ -33,36 +33,7 @@
   <d-front-matter>
     <script async type="text/json">{
       "title": "{{ page.titledisp }}",
-      "description": "{{ page.description }}",
-      "published": "{{ page.date | date: '%B %-d, %Y' }}",
-      "authors": [
-        {% for author in page.authors -%}
-        {
-          "author": "{{ author.name }}",
-          "authorURL": "{{ author.url }}",
-          "affiliations": [
-            {
-              "name": "{{ author.affiliations.name }}",
-              "url": "{{ author.affiliations.url }}"
-            }
-          ]
-        }{% if forloop.last == false %},{% endif %}
-        {% endfor %}
-      ],
-      "katex": {
-        "delimiters": [
-          {
-            "left": "$",
-            "right": "$",
-            "display": false
-          },
-          {
-            "left": "$$",
-            "right": "$$",
-            "display": true
-          }
-        ]
-      }
+      "description": "{{ page.description }}"
     }</script>
   </d-front-matter>
 
