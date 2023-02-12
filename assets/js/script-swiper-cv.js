@@ -1,5 +1,5 @@
 var swiper = new Swiper(".mySwiper", {
-  slidesPerView: 3,
+  slidesPerView: 1,
   spaceBetween: 0,
   grabCursor: true,
   loop: true,
@@ -16,5 +16,15 @@ var swiper = new Swiper(".mySwiper", {
     delay: 4000,
     pauseOnMouseEnter: true,
     disableOnInteraction: false,
+  },
+  breakpoints: {
+    // when window width is >= 480px
+    480: {
+      slidesPerView: 2
+    },
+    // when window width is >= 640px
+    640: {
+      slidesPerView: 3
+    }
   },
 });
