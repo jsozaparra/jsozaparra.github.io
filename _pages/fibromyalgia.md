@@ -1,6 +1,7 @@
 ---
 layout: pageII
 title:  fibromyalgia
+permalink: /fibromyalgia/
 titledisp: fibromyalgia
 description: living witb fibro in academia
 nav: true

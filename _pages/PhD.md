@@ -1,6 +1,7 @@
 ---
 layout: pageII
 title:  phd
+permalink: /phd/
 titledisp: phd experience
 description: a brief summary of my life as a gradstudent
 nav: true
