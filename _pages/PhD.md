@@ -239,7 +239,7 @@ By the end of this year, I was awarded the Lee Schipper’s Memorial Scholarship
 <div style="display:none">-->
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5MAJHtOmIjg?start=842" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="videoyt" src="https://www.youtube.com/embed/5MAJHtOmIjg?start=842" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 <!--</div>-->
 <br>
@@ -324,7 +324,7 @@ Finally, during the beginning of the COVID outbreak in Chile, I successfully def
 </section> 
 <br>
 <p align="center">
-<video width="560" height="315" controls>
+<video width="75%" aspect-ratio="16/9" controls>
   <source src="/assets/img/phd/Defence-Video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
