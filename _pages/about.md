@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uu.nl/staff/JASozaParra'>Assistant Professor in Transport Analysis and Data Science, Utrecht University</a> <br><a href='http://smartptlab.tudelft.nl/our-group/jaime-soza-parra'>Researcher, Smart PT Lab, TU Delft</a> <br>Doctor of Engineering Sciences
+subtitle: <a href='https://www.uu.nl/staff/JASozaParra'>Assistant Professor in Transport Analysis and Data Science, Utrecht University</a> <br>Doctor of Engineering Sciences
 
 profile:
   align: right
