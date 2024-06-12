@@ -8,28 +8,17 @@
     - name: Languages
       value: Spanish (Native), English (C1), Dutch (A2)
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctorate in Engineering Sciences
-      institution: Pontificia Universidad Católica de Chile
-      year: 2020
-      description:
-        - <b>Public Transport Reliability Causes and Effects</b>
-        - title: Supervisors
-          contents:
-            - Juan Carlos Muñoz
-            - Sebastián Raveau
-    - title: Civil Engineering
-      institution: Pontificia Universidad Católica de Chile
-      year: 2016
-      description:
-        - Diploma on Transport Engineering
-
-
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor in Transportation Analysis and Data Science
+      institution: Utrecht University
+      year: 2023
+      description:
+        - Research on car dependency and public transport
+        - Teaching and supervision at the bachelor and master level
+        - Supervision of PhD candidates
+
     - title: Postdoctoral Researcher
       institution: TU Delft
       year: 2022
@@ -52,9 +41,43 @@
         - Conduct interdisciplinary research with other members of the research centre
         - Write public policy documents <i>(white papers)</i>
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctorate in Engineering Sciences
+      institution: Pontificia Universidad Católica de Chile
+      year: 2020
+      description:
+        - <b>Public Transport Reliability Causes and Effects</b>
+        - title: Supervisors
+          contents:
+            - Juan Carlos Muñoz
+            - Sebastián Raveau
+    - title: Civil Engineering
+      institution: Pontificia Universidad Católica de Chile
+      year: 2016
+      description:
+        - Diploma on Transport Engineering
+
 - title: Teaching
   type: time_table
   contents:
+    - title: Quantitative Methods (Coordinator)
+      institution: Utrecht University
+      year: 2023
+
+    - title: Mobility, Networks, and Travel
+      institution: Utrecht University
+      year: 2023
+
+    - title: Transport Geography
+      institution: Utrecht University
+      year: 2023
+
+    - title: Discrete Choice Modelling Specialization
+      institution: Utrecht University
+      year: 2023  
+
     - title: Urban Public Transportation
       institution: TU Delft - Beijing Jiaotong University
       year: 2022
