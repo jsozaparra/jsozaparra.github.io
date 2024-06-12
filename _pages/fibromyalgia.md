@@ -17,7 +17,7 @@ If you are in academia, struggle with fibro or some similar condition, and would
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="https://me-pedia.org/images/9/99/Spoon-theory.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="https://me-pedia.org/w/images/9/99/Spoon-theory.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="https://www.verywellhealth.com/thmb/x26bvm2-3ufDYG8IBrTXGZzbSZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fibromyalgia-symptoms-5aec9feceb97de003668abb7.png" class="img-fluid rounded z-depth-1" %}
@@ -26,3 +26,5 @@ If you are in academia, struggle with fibro or some similar condition, and would
 <div class="caption">
     The spoon theory and a summary of some of the most commmon symptoms of fibromyalgia. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
 </div>
+
+
