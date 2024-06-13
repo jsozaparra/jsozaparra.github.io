@@ -1,6 +1,51 @@
 var locations = {
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.351697 , 50.8465573 ]
+      },
+      "properties": {
+      "Conference":"NECTAR",
+      "Location":"Brussels, Belgium",
+      "Date":"July,2024",
+      "Title":"Closing the gap between perceived and objective accessibility measures",
+      "Link":"https://events.vub.be/nectar-conference-2024"
+      }
+     },   
+
+     {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4.8924534 , 52.3730796 ]
+      },
+      "properties": {
+      "Conference":"Reinventing the City",
+      "Location":"Amsterdam, Netherlands",
+      "Date":"April,2024",
+      "Title":"The role of personal motives in determining car ownership and use: a literature review",
+      "Link":"https://www.ams-institute.org/events/ams-scientific-conference-reinventing-the-city/"
+      }
+     },   
+
+     {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates":  [ -72.9829073 , -41.317802 ]
+      },
+      "properties": {
+      "Conference":"ICMC",
+      "Location":"Puerto Varas, Chile",
+      "Date":"April,2024",
+      "Title":"An In-depth Analysis of Train User Behaviour and Choice Set Definition through a Latent Class Choice Model",
+      "Link":"https://icmc2024.cl/33/en/inicio"
+      }
+     },   
+         
  {
   "type": "Feature",
   "geometry": {
