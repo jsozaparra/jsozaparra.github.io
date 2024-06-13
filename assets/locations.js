@@ -2,6 +2,20 @@ var locations = {
   "type": "FeatureCollection",
   "features": [
  {
+  "type": "Feature",
+  "geometry": {
+  "type": "Point",
+  "coordinates":  [ 47.3744489,8.5410422 ]
+  },
+  "properties": {
+  "Conference":"hEART",
+  "Location":"Zurich, Switzerlands",
+  "Date":"September,2023",
+  "Title":"Who is ready to live a car-independent lifestyle? A latent class cluster analysis of attitudes towards car ownership and usage.",
+  "Link":"https://heart2023.org/"
+  }
+ },    
+ {
    "type": "Feature",
    "geometry": {
       "type": "Point",
