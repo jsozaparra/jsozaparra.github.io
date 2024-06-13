@@ -5,7 +5,7 @@ var locations = {
   "type": "Feature",
   "geometry": {
   "type": "Point",
-  "coordinates":  [ 47.3744489,8.5410422 ]
+  "coordinates":  [ 8.5410422 , 47.3744489 ]
   },
   "properties": {
   "Conference":"hEART",
