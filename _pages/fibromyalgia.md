@@ -24,7 +24,5 @@ If you are in academia, struggle with fibro or some similar condition, and would
     </div>
 </div>
 <div class="caption">
-    The spoon theory and a summary of some of the most commmon symptoms of fibromyalgia. Sourves to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
+    The spoon theory and a summary of some of the most commmon symptoms of fibromyalgia. Sources to the images <a href="https://me-pedia.org/wiki/Spoon_theory">here</a> and <a href="https://www.verywellhealth.com/fibromyalgia-symptoms-716139">here.</a>
 </div>
-
-
