@@ -162,7 +162,9 @@ nav_order: 1
     // Fallback: if colors don't update properly, fall back to your reload method
     setTimeout(() => {
       const currentColor = getFontColor();
-      const actualColor = papersChart?.options?.scales?.x?.ticks?.color;
+       // Replace optional chaining with traditional property access
+      const actualColor = papersChart && papersChart.options && papersChart.options.scales && papersChart.options.scales.x && papersChart.options.scales.x.ticks && papersChart.options.scales.x.ticks.color;
+      
       
       // If colors don't match, something went wrong, use your reload method
       if (actualColor && actualColor !== currentColor) {
