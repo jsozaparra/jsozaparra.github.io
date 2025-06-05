@@ -5,7 +5,7 @@ permalink: /phd/
 titledisp: phd experience
 description: a brief summary of my life as a gradstudent
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 ## first-year: 2016

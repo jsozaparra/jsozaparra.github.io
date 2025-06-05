@@ -5,7 +5,7 @@ permalink: /fibromyalgia/
 titledisp: fibromyalgia
 description: living witb fibro in academia
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
 <p align="justify">

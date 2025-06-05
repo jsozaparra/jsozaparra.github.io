@@ -5,6 +5,36 @@ var locations = {
       "type": "Feature",
       "geometry": {
       "type": "Point",
+      "coordinates":  [ 4.4809621 , 51.9212434 ]
+      },
+      "properties": {
+      "Conference":"Transportation Research Symposium",
+      "Location":"Rotterdam, Netherlands",
+      "Date":"May,2025",
+      "Title":"Linking perception and reality of transport-related social exclusion: A latent-class cluster analysis in Manizales, Colombia <br />Who are the happiest ride-hailing riders? Exploring determinants of ride-hailing travel satisfaction across income levels in Yogyakarta, Indonesia <br />How does travel affect adolescents' subjective well-being: Dependency on travel modes in the Sarbagita region, Indonesia",
+      "Link":"https://www.elsevier.com/events/conferences/all/transport-research-symposium"
+      }
+     },  
+    
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates":  [ -70.5100438 , -33.4039996 ]
+      },
+      "properties": {
+      "Conference":"CCHIT",
+      "Location":"Santiago, Chile",
+      "Date":"June,2025",
+      "Title":"Comprendiendo las elecciones de modo y ruta de pagadores y evasores en transporte público",
+      "Link":"http://www.cchit2025.cl/"
+      }
+     },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
       "coordinates":  [ 4.351697 , 50.8465573 ]
       },
       "properties": {
