@@ -1,15 +1,1 @@
-[
-   {
-    "name": "Wessel van Andel",
-    "thesis": "The effect of working from home on car ownership",
-    "university": "Utrecht University",
-    "year": 2025
-  },
- 
-  {
-    "name": "Thijs de Bruijn ",
-    "thesis": "Discovering potential for nature-based tourism destinations in the Metropoolregio Amsterdam: A GIS-based approach",
-    "university": "Utrecht University",
-    "year": 2024
-  }
-]
+[{"name":"Wessel van Andel","thesis":"The effect of working from home on car ownership","university":"Utrecht University","year":2025},{"name":"Thijs de Bruijn ","thesis":"Discovering potential for nature-based tourism destinations in the Metropoolregio Amsterdam: A GIS-based approach","university":"Utrecht University","year":2024}]
