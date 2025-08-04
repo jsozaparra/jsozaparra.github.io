@@ -7,7 +7,7 @@ description: a brief summary of my life as a gradstudent
 nav: true
 nav_order: 6
 ---
-
+ 
 ## first-year: 2016
 <p align="justify">
 By the end of 2015 I was about to get my Transportation Engineering professional title when I started to see myself working in academia in the near future. As I wanted to make some kind of contribution to my home town’s public transport system, I decided to enrol the PhD program in the Department of Transportation Engineering and Logistics, at PUC, Chile, under the supervision of Juan Carlos Muñoz and Sebastián Raveau.<br><br>
