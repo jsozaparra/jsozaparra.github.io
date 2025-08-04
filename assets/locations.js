@@ -5,6 +5,21 @@ var locations = {
       "type": "Feature",
       "geometry": {
       "type": "Point",
+      "coordinates":  [ 135.7782469 , 35.0262444]
+      },
+      "properties": {
+      "Conference":"CASPT",
+      "Location":"Kyoto, Japan",
+      "Date":"July,2025",
+      "Title":"Behavioural Modelling of Public Transport Users: Understanding Fare Payers and Evaders Mode and Route Choices <br />The Role of Transport Exclusion and Aerial Cable Cars in Shaping Commuting Choices in Steep Cities <br />Who are the happiest ride-hailing riders? Exploring determinants of ride-hailing travel satisfaction across income levels in Yogyakarta, Indonesia",
+      "Link":"http://www.caspt.org/"
+      }
+     }, 
+    
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
       "coordinates":  [ 4.4809621 , 51.9212434 ]
       },
       "properties": {
@@ -13,6 +28,21 @@ var locations = {
       "Date":"May,2025",
       "Title":"Linking perception and reality of transport-related social exclusion: A latent-class cluster analysis in Manizales, Colombia <br />Who are the happiest ride-hailing riders? Exploring determinants of ride-hailing travel satisfaction across income levels in Yogyakarta, Indonesia <br />How does travel affect adolescents' subjective well-being: Dependency on travel modes in the Sarbagita region, Indonesia",
       "Link":"https://www.elsevier.com/events/conferences/all/transport-research-symposium"
+      }
+     },  
+    
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates":  [ 16.3574755 , 48.2131855 ]
+      },
+      "properties": {
+      "Conference":"IATBR",
+      "Location":"Vienna, Austria",
+      "Date":"July,2024",
+      "Title":"Unravelling the travel patterns of ride-hailing users: A latent class cluster analysis across income groups in Yogyakarta, Indonesia <br />Are they participating more than before? The impact of an aerial cable car inactivity participation in disadvantaged communities.",
+      "Link":"https://iatbr2024.univie.ac.at/home/"
       }
      },  
     
