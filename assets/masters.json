@@ -1,5 +1,47 @@
 [
   {
+    "name": "Allan David Guzmán Fallas",
+    "thesis": "The Interplay of Crowding, Headway, and Route Overlapping: Implications for Public Transport System Design and Operations",
+    "university": "TU Delft",
+    "year": 2025
+  },
+
+  {
+    "name": "Hamza El Idrissi",
+    "thesis": "Clustering Commuter Routes: A Comparative Analysis of Urban and Regional Trade-offs in Time, Cost, and Reliability",
+    "university": "Utrecht University",
+    "year": 2025
+  },
+
+  {
+    "name": "Florian Yenga",
+    "thesis": "Healthcare access and transport equity in Villejuif and Le Kremlin-Bicêtre: A pre- and post-Grand Paris Express analysis",
+    "university": "Utrecht University",
+    "year": 2025
+  },
+  
+  {
+    "name": "Jakob P. Camstra",
+    "thesis": "Beyond Car Ownership; Understanding the Conditions Which Allow For Car-Free Living",
+    "university": "Utrecht University",
+    "year": 2025
+  },
+  
+  {
+    "name": "Joey van Baest",
+    "thesis": "Street Level Conflicts: Navigating Emergency Access and Sustainability Mobility Goals in Utrecht",
+    "university": "Utrecht University",
+    "year": 2025
+  },
+  
+  {
+    "name": "Willemijn ten Voorden",
+    "thesis": "Car-sharing users' intended and actualbehaviour of giving up car ownership",
+    "university": "Utrecht University",
+    "year": 2025
+  },
+  
+  {
     "name": "Anne van Dijck",
     "thesis": "Public Transit and Health Access in Utrecht's 10-Minute City Vision",
     "university": "Utrecht University",

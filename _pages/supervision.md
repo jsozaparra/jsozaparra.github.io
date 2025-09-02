@@ -111,7 +111,7 @@ nav_order: 5
             <p><strong>Name:</strong> ${student.name}</p>
             <p><strong>Project:</strong> ${student.project}</p>
             <p><strong>Period:</strong> ${student.period}</p>
-            <p><strong>Published Papers:</strong></p>
+            <p><strong>Articles:</strong></p>
             <ul class="simple-list">
               ${student.papers.map(p => `<li>${p}</li>`).join('')}
             </ul>
