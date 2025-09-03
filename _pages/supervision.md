@@ -122,6 +122,9 @@ nav_order: 5
 
 
 <script>
+
+  const val = v => (v != null ? v : '');
+
   function normalizeStatus(s) {
     if (!s) return '';
     const key = s.toLowerCase().trim()
@@ -212,9 +215,9 @@ nav_order: 5
         <div class="phd-flex">
           <img src="${student.image}" alt="${student.name}" class="profile-pic">
           <div class="phd-content">
-            <p><strong>Name:</strong> ${student.name ?? ''}</p>
-            <p><strong>Project:</strong> ${student.project ?? ''}</p>
-            <p><strong>Period:</strong> ${student.period ?? ''}</p>
+          <p><strong>Name:</strong> ${(student.name != null ? student.name : '')}</p>
+          <p><strong>Project:</strong> ${(student.project != null ? student.project : '')}</p>
+          <p><strong>Period:</strong> ${(student.period != null ? student.period : '')}</p>
             ${papersHTML}
           </div>
         </div>
