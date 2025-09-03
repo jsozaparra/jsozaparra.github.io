@@ -1,42 +1,102 @@
 [
-  {
+   {
     "name": "Muchlis Muchlisin",
     "project": "A ride for everyone? Unveiling the use and impacts of ride-hailing services across income levels in Yogyakarta, Indonesia",
     "period": "2020 - 2025",
-    "papers": ["Muchlisin, M., Soza-Parra, J., Susilo, Y. O., & Ettema, D. (2024). Unraveling the travel patterns of ride-hailing users: A latent class cluster analysis across income groups in Yogyakarta, Indonesia. Travel Behaviour and Society, 37, 100836.",
-               "Muchlisin, M., Soza-Parra, J., & Ettema, D. (2024). The effect of COVID-19: to what extent does food delivery substitute eating out trips in Yogyakarta, Indonesia?. Transportation, 1-29.",
-               "[Under Review] Muchlisin, M., Soza-Parra, J., & Ettema, D. Adoption and frequency of motorcycle and car-based ride-hailing use across income groups in Yogyakarta, Indonesia",
-               "[Under Review] Muchlisin, M., Soza-Parra, J., & Ettema, D. Examining the impact of ride-hailing on alleviating transport poverty in Yogyakarta, Indonesia",
-               "[Under Review] Muchlisin, M., Soza-Parra, J., & Ettema, D. Who are the happiest ride-hailing users? Examining determinants of ride-hailing travel satisfaction across income levels in Yogyakarta, Indonesia"],
-    "image": "../assets/img/supervision/muchlis.jpeg"
+    "image": "../assets/img/supervision/muchlis.jpeg",
+    "papers": [
+      {
+        "title": "Unraveling the travel patterns of ride-hailing users: A latent class cluster analysis across income groups in Yogyakarta, Indonesia",
+        "url": "https://doi.org/10.1016/j.tbs.2024.100836",
+        "status": "published"
+      },
+      {
+        "title": "The effect of COVID-19: to what extent does food delivery substitute eating out trips in Yogyakarta, Indonesia?",
+        "url": "https://doi.org/10.1007/s11116-024-10554-w",
+        "status": "published"
+      },
+      {
+        "title": "Adoption and frequency of motorcycle and car-based ride-hailing use across income groups in Yogyakarta, Indonesia",
+        "url": "",
+        "status": "under_review"
+      },
+      {
+        "title": "Examining the impact of ride-hailing on alleviating transport poverty in Yogyakarta, Indonesia",
+        "url": "",
+        "status": "under_review"
+      },
+      {
+        "title": "Who are the happiest ride-hailing users? Examining determinants of ride-hailing travel satisfaction across income levels in Yogyakarta, Indonesia",
+        "url": "",
+        "status": "under_review"
+      }
+    ]
   },
 
   {
     "name": "Santiago Cardona",
     "project": "Breaking barriers: Exploration of travel behaviour and transport challenges and innovations in Disadvantaged Communities in Colombian cities",
-    "period": "2022 - to date",
-    "papers": ["Cardona-Urrea, S., Soza-Parra, J., & Ettema, D. (2024). Aerial cable cars as a transit mode: a review of technological advances, service area characteristics, and societal impacts in Latin America and the Caribbean. Transport Reviews, 44(3), 684-708.",
-               "[Under Review] Cardona-Urrea, S., Soza-Parra, J., & Ettema, D. Activity participation among disadvantaged communities and the impact of an aerial cable car: The case of TransMiCable, Bogotá.",
-               "[Working Paper] Cardona-Urrea, S., Soza-Parra, J., & Ettema, D. Breaking barriers: Evaluating Aerial Cable Car's impact on Accessibility to discretionary activities: Case of TransMiCable, Bogotá",
-               "[Working Paper] Cardona-Urrea, S., Soza-Parra, J., Raveau, S.,  & Ettema, D. The Role of Transport Exclusion and Aerial Cable Cars in Shaping Commuting Choices in Steep Cities"],
-    "image": "../assets/img/supervision/santiago.jpeg"
+    "period": "2022 - present",
+    "image": "/assets/img/supervision/santiago.jpeg",
+    "papers": [
+      {
+        "title": "Aerial cable cars as a transit mode: a review of technological advances, service area characteristics, and societal impacts in Latin America and the Caribbean",
+        "url": "https://doi.org/10.1080/01441647.2023.2294752",
+        "status": "published"
+      },
+      {
+        "title": "Activity participation among disadvantaged communities and the impact of an aerial cable car: TransMiCable, Bogotá",
+        "url": "",
+        "status": "under_review"
+      },
+      {
+        "title": "Evaluating aerial cable cars’ impact on accessibility to discretionary activities: TransMiCable, Bogotá",
+        "url": "",
+        "status": "working_paper"
+      },
+      {
+        "title": "Transport exclusion and aerial cable cars in steep cities: effects on commuting choices",
+        "url": "",
+        "status": "working_paper"
+      }
+    ]
   },
 
   {
     "name": "I. Made Sukmayasa",
     "project": "Adolescent travel behavior and its determinants : Implication on activity and subjective well-being",
     "period": "2022 - to date",
-    "papers": ["Sukmayasa, I. M., Soza-Parra, J., & Ettema, D. (2025). Determinants of travel mode access for adolescents in developing countries: a literature review. Transport Reviews, 45(2), 194-215.",
-               "Sukmayasa, I. M., Soza-Parra, J., & Ettema, D. (2025). The role of parental involvement and gender on travel mode decisions to School in Bali, Indonesia. Journal of Transport Geography, 126, 104250.",
-               "[Working Paper] Sukmayasa, I. M., Soza-Parra, J., & Ettema, D. How does travel affect subjective well-being: exploring the direct effect and mediation via activity participation for adolescents in Bali, Indonesia."],
-    "image": "../assets/img/supervision/made.jpeg"
+    "image": "../assets/img/supervision/made.jpeg",
+    "papers": [
+      {
+        "title": "Determinants of travel mode access for adolescents in developing countries: a literature review",
+        "url": "https://doi.org/10.1080/01441647.2024.2435309",
+        "status": "published"
+      },
+      {
+        "title": "The role of parental involvement and gender on travel mode decisions to School in Bali, Indonesia",
+        "url": "https://doi.org/10.1016/j.jtrangeo.2025.104250",
+        "status": "published"
+      },
+      {
+        "title": "How does travel affect subjective well-being: exploring the direct effect and mediation via activity participation for adolescents in Bali, Indonesia.",
+        "url": "",
+        "status": "working_paper"
+      }
+    ]
   },
 
-  {
+   {
     "name": "Kumar Gaurav",
     "project": "Perceived Accessibility - a key factor in designing a socially inclusive transport system",
     "period": "2024 - to date",
-    "papers": ["[Working Paper] Gaurav, K., Ettema, D., van Lierop, D., Soza-Parra, J. Perceived Accessibility: A Global South Review"],
-    "image": "../assets/img/supervision/kumar.jpg"
+    "image": "../assets/img/supervision/kumar.jpg",
+    "papers": [
+      {
+        "title": "Perceived Accessibility: A Global South Review",
+        "url": "",
+        "status": "working_paper"
+      }
+    ]
   }
-] 
+]
