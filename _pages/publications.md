@@ -45,11 +45,11 @@ nav_order: 1
 <body>
   <div class="chart-container">
     <div class="chart-box">
-      <h6 align="right">total: 19 </h6>
+      <h6 align="right">total: 26 </h6>
       <canvas id="papersChart"></canvas>
     </div>
     <div class="chart-box">
-      <h6 align="right">total: 409</h6>
+      <h6 align="right">total: 653</h6>
       <canvas id="citationsChart"></canvas>
     </div>
   </div>
@@ -57,11 +57,12 @@ nav_order: 1
     const data = [
       { year: 2018, papers: 1, citations: 4 },
       { year: 2019, papers: 2, citations: 6 },
-      { year: 2020, papers: 1, citations: 18 },
-      { year: 2021, papers: 2, citations: 27 },
-      { year: 2022, papers: 5, citations: 73 },
-      { year: 2023, papers: 1, citations: 112 },
-      { year: 2024, papers: 7, citations: 167 }
+      { year: 2020, papers: 1, citations: 19 },
+      { year: 2021, papers: 2, citations: 26 },
+      { year: 2022, papers: 5, citations: 71 },
+      { year: 2023, papers: 1, citations: 111 },
+      { year: 2024, papers: 6, citations: 169 },
+      { year: 2025, papers: 8, citations: 247 }
     ];
     const labels = data.map(entry => entry.year);
     const papersData = data.map(entry => entry.papers);
