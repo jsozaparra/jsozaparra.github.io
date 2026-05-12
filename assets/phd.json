@@ -50,12 +50,17 @@
         "status": "published"
       },
       {
-        "title": "Evaluating aerial cable cars’ impact on accessibility to discretionary activities: TransMiCable, Bogotá",
-        "url": "",
-        "status": "working_paper"
+        "title": "Flying the gap: Evaluating the impact of aerial cable car on accessibility to discretionary activities: The case of TransMiCable",
+        "url": "https://www.sciencedirect.com/science/article/pii/S096669232600147X",
+        "status": "published"
       },
       {
         "title": "Transport exclusion and aerial cable cars in steep cities: effects on commuting choices",
+        "url": "",
+        "status": "under_review"
+      },
+      {
+        "title": "From barriers to classes: Unveiling profiles of transport-related social exclusion in a Latin American city",
         "url": "",
         "status": "working_paper"
       }
@@ -79,7 +84,17 @@
         "status": "published"
       },
       {
-        "title": "How does travel affect subjective well-being: exploring the direct effect and mediation via activity participation for adolescents in Bali, Indonesia.",
+        "title": "Travel, activities and subjective well-being among adolescents: Evidence from Bali, Indonesia",
+        "url": "",
+        "status": "under_review"
+      },
+      {
+        "title": "Parents Recalling their Children's Last Walking Trip: Evidence from Bali and Santiago.",
+        "url": "",
+        "status": "working_paper"
+      },
+      {
+        "title": "Parental-adolescents preference in travel mode use",
         "url": "",
         "status": "working_paper"
       }
@@ -93,9 +108,9 @@
     "image": "../assets/img/supervision/kumar.jpg",
     "papers": [
       {
-        "title": "Perceived Accessibility: A Global South Review",
+        "title": "Perceived Accessibility in the Global South: Determinants and Mobility Outcomes",
         "url": "",
-        "status": "working_paper"
+        "status": "under_review"
       }
     ]
   }
